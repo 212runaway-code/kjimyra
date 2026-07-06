@@ -1,0 +1,25 @@
+{
+    "brand": "PEUGEOT",
+    "model": "206",
+    "type": "2*8HZ*",
+    "dom": "04/2005",
+    "dop": "05/2025",
+    "vin": "VF32A8HZF4458616",
+    "plate": "JMY603",
+    "prevowner": "KATALIN TÓTH",
+    "owner": "ALEX M. VICZIAN",
+    "fuel": "DIESEL",
+    "boost": "TURBOCHARGED (TURBÓFELTÖLTŐ)",
+    "service_history": [
+        {
+            "type": "ENGINE  |  MOTORIKUS",
+            "date": "  |  07 / 2025",
+            "parts": [
+                "TIMING BELT REPLACEMENT  |  VEZÉRLÉSCSERE",
+                "OIL CHANGE  |  OLAJCSERE"
+            ],
+            "reason": "ROUTINE SERVICE  |  IDŐSZAKOS SZERVÍZ",
+            "performed_by": "TAMÁS VAS"
+        }
+    ]
+}
